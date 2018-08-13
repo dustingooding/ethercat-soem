@@ -1,5 +1,5 @@
 #!/bin/sh
-sudo apt-get install build-essential cmake
+sudo apt-get install -y build-essential cmake
 
 mkdir build
 cd build
